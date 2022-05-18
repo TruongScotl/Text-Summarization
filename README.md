@@ -1,2 +1,3 @@
 # Text-Summarization
-using t5 model to summarize the text
+using seq2seq, t5 model with pretrain to summarize the text
+dataset: vietnews
